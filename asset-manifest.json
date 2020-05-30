@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mag-filter/static/css/main.8718d147.chunk.css",
+    "main.js": "/mag-filter/static/js/main.05d59259.chunk.js",
+    "main.js.map": "/mag-filter/static/js/main.05d59259.chunk.js.map",
+    "runtime-main.js": "/mag-filter/static/js/runtime-main.151bdf63.js",
+    "runtime-main.js.map": "/mag-filter/static/js/runtime-main.151bdf63.js.map",
+    "static/js/2.b02f6f87.chunk.js": "/mag-filter/static/js/2.b02f6f87.chunk.js",
+    "static/js/2.b02f6f87.chunk.js.map": "/mag-filter/static/js/2.b02f6f87.chunk.js.map",
+    "index.html": "/mag-filter/index.html",
+    "precache-manifest.e4b7e1bb7adeb092b4bd951562e9d47b.js": "/mag-filter/precache-manifest.e4b7e1bb7adeb092b4bd951562e9d47b.js",
+    "service-worker.js": "/mag-filter/service-worker.js",
+    "static/css/main.8718d147.chunk.css.map": "/mag-filter/static/css/main.8718d147.chunk.css.map",
+    "static/js/2.b02f6f87.chunk.js.LICENSE.txt": "/mag-filter/static/js/2.b02f6f87.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mag-filter/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.151bdf63.js",
+    "static/js/2.b02f6f87.chunk.js",
+    "static/css/main.8718d147.chunk.css",
+    "static/js/main.05d59259.chunk.js"
+  ]
+}
